@@ -1,0 +1,38 @@
+html {
+    display: inline;
+    margin: auto;
+    border: solid green;
+    padding: none;
+}
+
+body {
+    align-content: center;
+    line-height: 2;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 200%;
+    letter-spacing: 25px;
+    color: gray;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 2px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+input {
+    padding: 2px 15px;
+    font-size: 18px;
+    margin: 2px 1.5px;
+}
